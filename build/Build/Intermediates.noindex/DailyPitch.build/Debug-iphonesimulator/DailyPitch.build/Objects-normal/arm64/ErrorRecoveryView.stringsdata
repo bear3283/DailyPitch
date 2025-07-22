@@ -1,0 +1,104 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/Presentation/DesignSystem/Components/ErrorRecoveryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "원인 분석: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 237
+        }
+      },
+      {
+        "comment": "",
+        "key": "권장",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 209
+        }
+      },
+      {
+        "comment": "",
+        "key": "닫기",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "에러 창 닫기",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "에러 정보를 닫고 이전 화면으로 돌아갑니다",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 251
+        }
+      },
+      {
+        "comment": "",
+        "key": "자동 복구가 진행 중입니다",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 266
+        }
+      },
+      {
+        "comment": "",
+        "key": "기록",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 273
+        }
+      },
+      {
+        "comment": "",
+        "key": "에러 기록 보기",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 277
+        }
+      },
+      {
+        "comment": "",
+        "key": "에러 기록",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 362
+        }
+      },
+      {
+        "comment": "",
+        "key": "닫기",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 366
+        }
+      },
+      {
+        "comment": "",
+        "key": "전체 삭제",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 372
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,128 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/Presentation/DesignSystem/Components/ContextualHelpSystem.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "도움말 화면",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 467
+        }
+      },
+      {
+        "comment": "",
+        "key": "도움말",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 444
+        }
+      },
+      {
+        "comment": "",
+        "key": "닫기",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 448
+        }
+      },
+      {
+        "comment": "",
+        "key": "전체",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 455
+        }
+      },
+      {
+        "comment": "",
+        "key": "도움말 검색",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 484
+        }
+      },
+      {
+        "comment": "",
+        "key": "도움말 검색",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 486
+        }
+      },
+      {
+        "comment": "",
+        "key": "찾고 싶은 내용을 입력하세요",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 487
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ 도움말",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 541
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ 관련 도움말을 표시합니다",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 542
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 641
+        }
+      },
+      {
+        "comment": "",
+        "key": "탭하여 상세 내용을 확인하세요",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 642
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ 상세 도움말",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 718
+        }
+      },
+      {
+        "comment": "",
+        "key": "도움말 내용: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 759
+        }
+      },
+      {
+        "comment": "",
+        "key": "닫기",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 697
+        }
+      },
+      {
+        "comment": "",
+        "key": "관련 도움말을 확인합니다",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 896
+        }
+      }
+    ]
+  },
+  "version": 1
+}

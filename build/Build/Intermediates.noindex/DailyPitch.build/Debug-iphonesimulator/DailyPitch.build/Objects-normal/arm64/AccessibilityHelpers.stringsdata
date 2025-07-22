@@ -1,0 +1,32 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/Presentation/DesignSystem/AccessibilityHelpers.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 350
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld퍼센트 완료",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 351
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %@, %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 424
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,160 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/Presentation/Views/AnalysisResultsSection.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "감지된 음계: %@, 주파수: %@ 헤르츠",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 304
+        }
+      },
+      {
+        "comment": "",
+        "key": "감지된 음계: %@",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 258
+        }
+      },
+      {
+        "comment": "",
+        "key": "주파수: %@ 헤르츠",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 266
+        }
+      },
+      {
+        "comment": "",
+        "key": "음계 정확도: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 340
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ cents 차이",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 341
+        }
+      },
+      {
+        "comment": "",
+        "key": "감지된 음계 순서",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 587
+        }
+      },
+      {
+        "comment": "",
+        "key": "각 음계를 탭하여 선택하고 재생할 수 있습니다",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 588
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 1130
+        }
+      },
+      {
+        "comment": "",
+        "key": "세그먼트 %lld: %@초부터 %@초까지",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 1164
+        }
+      },
+      {
+        "comment": "",
+        "key": "음절 %lld: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 1204
+        }
+      },
+      {
+        "comment": "",
+        "key": "선택됨",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 1205
+        }
+      },
+      {
+        "comment": "",
+        "key": "탭하여 선택",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 1205
+        }
+      },
+      {
+        "comment": "",
+        "key": "재생 중",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 1206
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 1206
+        }
+      },
+      {
+        "comment": "",
+        "key": "음절 %lld: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 1303
+        }
+      },
+      {
+        "comment": "",
+        "key": "재생 중",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 1304
+        }
+      },
+      {
+        "comment": "",
+        "key": "선택됨",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 1304
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 1304
+        }
+      },
+      {
+        "comment": "",
+        "key": "탭하여 선택하거나 재생 버튼을 눌러 들어보세요",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1305
+        }
+      }
+    ]
+  },
+  "version": 1
+}

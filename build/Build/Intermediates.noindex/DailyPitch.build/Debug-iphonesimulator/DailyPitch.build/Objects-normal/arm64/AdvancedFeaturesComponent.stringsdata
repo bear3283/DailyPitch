@@ -1,0 +1,72 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/Presentation/DesignSystem/Components/AdvancedFeaturesComponent.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "주간 사용 패턴 차트",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 391
+        }
+      },
+      {
+        "comment": "",
+        "key": "일주일간의 앱 사용 빈도를 막대 그래프로 표시",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 392
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ 강도",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 768
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld퍼센트",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 769
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 810
+        }
+      },
+      {
+        "comment": "",
+        "key": "적응 상태: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 832
+        }
+      },
+      {
+        "comment": "",
+        "key": "적용",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1008
+        }
+      },
+      {
+        "comment": "",
+        "key": "해제",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1009
+        }
+      }
+    ]
+  },
+  "version": 1
+}

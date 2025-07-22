@@ -1,0 +1,400 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/Presentation/Views/RecordingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "DailyPitch",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "마이크 권한 필요",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 193
+        }
+      },
+      {
+        "comment": "",
+        "key": "녹음 메인 화면",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 222
+        }
+      },
+      {
+        "comment": "",
+        "key": "설정으로 이동",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "나중에",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "음성을 녹음하려면 마이크 사용 권한이 필요합니다. 설정에서 권한을 허용해주세요.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "DailyPitch 앱 아이콘",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 280
+        }
+      },
+      {
+        "comment": "",
+        "key": "DailyPitch",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": "일상의 소리를 음계로 변환하세요",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 288
+        }
+      },
+      {
+        "comment": "",
+        "key": "음성을 녹음하여 해당 소리를 음악적 음계로 변환할 수 있습니다",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "녹음 준비",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 336
+        }
+      },
+      {
+        "comment": "",
+        "key": "버튼을 눌러 음성 녹음을 시작하세요",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 340
+        }
+      },
+      {
+        "comment": "",
+        "key": "마이크 준비",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 334
+        }
+      },
+      {
+        "comment": "",
+        "key": "녹음 중입니다...",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 384
+        }
+      },
+      {
+        "comment": "",
+        "key": "녹음 중",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 367
+        }
+      },
+      {
+        "comment": "",
+        "key": "녹음 시간 %@",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 375
+        }
+      },
+      {
+        "comment": "",
+        "key": "분석 중...",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 408
+        }
+      },
+      {
+        "comment": "",
+        "key": "음성을 음계로 변환하고 있습니다",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 412
+        }
+      },
+      {
+        "comment": "",
+        "key": "음성 분석 중",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 406
+        }
+      },
+      {
+        "comment": "",
+        "key": "분석 완료!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 426
+        }
+      },
+      {
+        "comment": "",
+        "key": "음계로 변환된 결과를 확인하세요",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 431
+        }
+      },
+      {
+        "comment": "",
+        "key": "분석 완료",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 424
+        }
+      },
+      {
+        "comment": "",
+        "key": "오류 발생",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 440
+        }
+      },
+      {
+        "comment": "",
+        "key": "문제가 발생했습니다. 다시 시도해주세요.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 445
+        }
+      },
+      {
+        "comment": "",
+        "key": "다시 시도",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 475
+        }
+      },
+      {
+        "comment": "",
+        "key": "다시 시도",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 480
+        }
+      },
+      {
+        "comment": "",
+        "key": "오류 발생",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 463
+        }
+      },
+      {
+        "comment": "",
+        "key": "오류",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 461
+        }
+      },
+      {
+        "comment": "",
+        "key": "오류 발생",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 490
+        }
+      },
+      {
+        "comment": "",
+        "key": "문제가 발생했습니다. 다시 시도해주세요.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 495
+        }
+      },
+      {
+        "comment": "",
+        "key": "오류 발생",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 488
+        }
+      },
+      {
+        "comment": "",
+        "key": "진행 단계: %lld단계 중 %lld단계",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 538
+        }
+      },
+      {
+        "comment": "",
+        "key": "취소",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 633
+        }
+      },
+      {
+        "comment": "",
+        "key": "녹음 취소",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 638
+        }
+      },
+      {
+        "comment": "",
+        "key": "현재 녹음을 취소하고 처음으로 돌아갑니다",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 639
+        }
+      },
+      {
+        "comment": "",
+        "key": "다시 녹음",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 644
+        }
+      },
+      {
+        "comment": "",
+        "key": "다시 녹음",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 650
+        }
+      },
+      {
+        "comment": "",
+        "key": "새로운 음성을 녹음합니다",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 651
+        }
+      },
+      {
+        "comment": "",
+        "key": "마이크 권한 필요",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 753
+        }
+      },
+      {
+        "comment": "",
+        "key": "음성 녹음을 위해 마이크 접근 권한이 필요합니다",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 757
+        }
+      },
+      {
+        "comment": "",
+        "key": "설정에서 권한 허용",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 766
+        }
+      },
+      {
+        "comment": "",
+        "key": "권한 가이드 보기",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 773
+        }
+      },
+      {
+        "comment": "",
+        "key": "권한 가이드",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 823
+        }
+      },
+      {
+        "comment": "",
+        "key": "마이크 권한 설정 방법",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 796
+        }
+      },
+      {
+        "comment": "",
+        "key": "DailyPitch가 음성을 녹음하고 분석하려면 마이크 접근 권한이 필요합니다.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 800
+        }
+      },
+      {
+        "comment": "",
+        "key": "개인정보 보호",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 812
+        }
+      },
+      {
+        "comment": "",
+        "key": "녹음된 음성은 오직 음계 분석 목적으로만 사용되며, 기기 내에서만 처리됩니다. 외부로 전송되지 않습니다.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 816
+        }
+      },
+      {
+        "comment": "",
+        "key": "완료",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 827
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 858
+        }
+      }
+    ]
+  },
+  "version": 1
+}

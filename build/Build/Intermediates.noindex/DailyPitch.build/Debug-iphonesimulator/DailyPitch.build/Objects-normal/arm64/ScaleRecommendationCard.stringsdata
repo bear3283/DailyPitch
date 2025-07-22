@@ -1,0 +1,192 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/Presentation/DesignSystem/Components/ScaleRecommendationCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@ 스케일 추천",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "적합도 %lld퍼센트",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "분위기: %@",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "점수 %lld점",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 343
+        }
+      },
+      {
+        "comment": "",
+        "key": "구성 음정",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 144
+        }
+      },
+      {
+        "comment": "",
+        "key": "음계 구성: %lld개 음정",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "+%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "전체 적합도 %lld퍼센트",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "재생 정지",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "스케일 재생",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "이 스케일의 음계를 들어볼 수 있습니다",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 219
+        }
+      },
+      {
+        "comment": "",
+        "key": "즐겨찾기에서 제거",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "즐겨찾기에 추가",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "상세 정보 보기",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 243
+        }
+      },
+      {
+        "comment": "",
+        "key": "정지",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "재생",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "상세 분석",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 254
+        }
+      },
+      {
+        "comment": "",
+        "key": "적합한 장르",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 299
+        }
+      },
+      {
+        "comment": "",
+        "key": "+%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 315
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 333
+        }
+      },
+      {
+        "comment": "",
+        "key": "음정 %lld",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 421
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 466
+        }
+      },
+      {
+        "comment": "",
+        "key": "복잡도 %lld단계 중 5단계",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 512
+        }
+      }
+    ]
+  },
+  "version": 1
+}

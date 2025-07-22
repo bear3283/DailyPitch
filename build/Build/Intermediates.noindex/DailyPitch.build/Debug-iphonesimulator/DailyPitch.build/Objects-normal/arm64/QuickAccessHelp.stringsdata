@@ -1,0 +1,88 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/Presentation/DesignSystem/Components/QuickAccessHelp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "도움말",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ 화면 사용법을 확인합니다",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "도움말",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ 화면 사용법을 확인합니다",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "전체 보기",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "전체 도움말 보기",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "도움말 상세 내용을 확인합니다",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "닫기",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 240
+        }
+      },
+      {
+        "comment": "",
+        "key": "제안: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 321
+        }
+      },
+      {
+        "comment": "",
+        "key": "유용한 도움말입니다",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 322
+        }
+      }
+    ]
+  },
+  "version": 1
+}

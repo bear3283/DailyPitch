@@ -1,0 +1,48 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "기록",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "설정",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 358
+        }
+      },
+      {
+        "comment": "",
+        "key": "시작하기",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 415
+        }
+      },
+      {
+        "comment": "",
+        "key": "건너뛰기",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 425
+        }
+      },
+      {
+        "comment": "",
+        "key": "다음",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 432
+        }
+      }
+    ]
+  },
+  "version": 1
+}

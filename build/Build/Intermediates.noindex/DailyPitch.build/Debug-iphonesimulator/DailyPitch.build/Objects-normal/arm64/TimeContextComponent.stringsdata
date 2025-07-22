@@ -1,0 +1,112 @@
+{
+  "source": "/Users/bear/Library/Mobile Documents/com~apple~CloudDocs/AppleAcademy/Xcode/DailyPitch/DailyPitch/Presentation/DesignSystem/Components/TimeContextComponent.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "자동 감지",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "현재 상황",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "시간대",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "계절",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "상황",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "수동 설정",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "시간대",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "상황",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 216
+        }
+      },
+      {
+        "comment": "",
+        "key": "실시간 분석",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 245
+        }
+      },
+      {
+        "comment": "",
+        "key": "실시간 분석 데이터가 없습니다",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 287
+        }
+      },
+      {
+        "comment": "",
+        "key": "맥락 기반 제안",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 554
+        }
+      }
+    ]
+  },
+  "version": 1
+}
